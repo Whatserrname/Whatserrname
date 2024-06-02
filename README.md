@@ -7,7 +7,7 @@ You can find all my projects at **[ARTSTATION](https://www.artstation.com/bogdan
 
 This is my personal project. I have created my own design of chess, inspired by the chess series 'The Queen's Gambit' on Netflix. I hope you like it.
 
-![Combat Example Still](![Covers1]()
+![Combat Example Still](![Covers1](https://drive.google.com/drive/u/0/folders/1cJX-JZ90y0rs-Wltaks5-kBNPi2LKab5)
 
 ## Survival Game (C++ Sample Project)
 ***[Browse Repository](https://github.com/tomlooman/EpicSurvivalGame)***

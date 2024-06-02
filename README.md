@@ -1,6 +1,6 @@
 ## 3D Environment/Prop artist for videogames.
 
-You can find all my projects at **[Artstation.com](https://www.artstation.com/bogdanova_m)**.
+You can find all my projects at **[ARTSTATION](https://www.artstation.com/bogdanova_m)**.
 
 ## Action Roguelike (C++ Course Project)
 ***[Browse Repository](https://github.com/tomlooman/ActionRoguelike)***

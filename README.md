@@ -1,6 +1,6 @@
 ## 3D Environment/Prop artist for videogames.
 
-You can find all my projects at **[ARTSTATION](https://www.artstation.com/etonemari)**.
+You can find all my projects at **[ARTSTATION](https://www.artstation.com/whatserrname)**.
 
 ## Chess Board (Maya, ZBrush, Substance 3D Painter, Marmoset Toolbag, Photoshop)
 ***[Browse Repository](https://www.artstation.com/artwork/g0vPZG)***
